@@ -1,1 +1,1 @@
-# Tic-Tac-Toe
+The tic tac toe game is here!! Click on the block to make your turn appear on the screen. The turns are to be played within 10 seconds, if any player is unable to do so then he will lose. The remaining time for a player is displayed on timer. If any win player wins then that will be displayed above the board. there is an option to reset the game.
